@@ -1,7 +1,7 @@
 - 👋 Hello, I’m Keerthana K M
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on anything interesting and eventful
+- 👀 I’m interested in Developing Frontend and ML Projects
+- 🌱 I’m currently pursuing Masters at MSIS
+- 💞️ I’m looking to collaborate on anything based out on AIML or Android (Java)
 - 📫 Reach me on email keerthana.24.km@gmail.com
 
 <!---
